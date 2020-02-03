@@ -1,8 +1,8 @@
-'''''''''''''''
+'''
 코드 내용 
 // 우분투 server의 멀티스레드 client
 
-'''''''''''''''
+'''
 
 import java.io.BufferedReader;
 import java.io.IOException;
