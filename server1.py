@@ -2,6 +2,7 @@
 코드 내용
 # 라즈베리파이에서 ubuntu로 pi-camera 스트리밍
 # ubuntu에서 라즈베리파이로 html파일 데이터 전송
+# thread를 하나만 사용함!!!
 [수정 - 2020.02.02.] - ununtu에서 html파일 scraping 코드 추가(확인 안함)
 ''''''''''''''''''''''
 import socket
